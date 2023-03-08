@@ -1,3 +1,4 @@
 spacy
 streamlit
 spacy-streamlit
+https://huggingface.co/nepalprabin/en_pipeline/resolve/main/en_pipeline-any-py3-none-any.whl

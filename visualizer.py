@@ -3,7 +3,7 @@ import streamlit as st
 import spacy_streamlit
 import spacy
 
-nlp = spacy.load('output/model-last')
+nlp = spacy.load('en_pipeline')
 
 
 def main():
